@@ -9,7 +9,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Coming Soon',
+    title: 'Building',
     description: "More to come soon!",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
